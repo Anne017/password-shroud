@@ -24,7 +24,7 @@ msgstr "Mettre à jour l'entrée"
 
 #: ./share/password-shroud/ListPage.qml:5
 msgid "entries"
-msgstr "Entrées"
+msgstr "entrées"
 
 #: ./share/password-shroud/ListPage.qml:28
 msgid "Add Entry"
@@ -64,11 +64,11 @@ msgstr "Ouvrir Password-Shroud"
 
 #: ./share/password-shroud/EditPage.qml:23
 msgid "provide a masterpassword..."
-msgstr "Saisissez un mot de passe maître..."
+msgstr "Saisir un mot de passe maître..."
 
 #: ./share/password-shroud/EditPage.qml:34
 msgid "Decrypt password-shroud"
-msgstr "Déchiffrez Password-Shroud"
+msgstr "Déchiffrer Password-Shroud"
 
 #: ./share/password-shroud/EditPage.qml:45
 msgid "Wrong password supplied?"
